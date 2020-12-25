@@ -2,6 +2,7 @@ body { margin: 0 }
 
 .flex { display: flex }
 .flex.space-around { justify-content: space-around }
+.flex.space-between { justify-content: space-between }
 
 .box {
   width: 100px;
@@ -9,4 +10,7 @@ body { margin: 0 }
 }
 .red {
   background-color: red;
+}
+.green {
+  background-color: green;
 }

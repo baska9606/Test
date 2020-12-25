@@ -1,0 +1,12 @@
+body { margin: 0 }
+
+.flex { display: flex }
+.flex.space-around { justify-content: space-around }
+
+.box {
+  width: 100px;
+  height: 100px;
+}
+.red {
+  background-color: red;
+}
